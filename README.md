@@ -1,4 +1,4 @@
-# Resume Analysis Workflow
+# Resume Analysis Workflow with Langgraph, LangChain and FastAPI
 
 A production-ready LangGraph-powered API system for intelligent resume analysis with real-time streaming and workflow persistence.
 
